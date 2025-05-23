@@ -1,27 +1,36 @@
 # Hello, I'm Sheharyar Amin! 👋
 
-I'm a software engineer specializing in data science, machine learning, and full-stack software development. With a strong foundation in crafting intelligent systems, I aim to turn data into powerful, actionable insights.
+I'm a software engineer and data scientist passionate about building intelligent systems that solve real-world problems. From healthcare platforms serving thousands of patients to award-winning accessibility solutions, I specialize in turning complex technical challenges into scalable, impactful applications.
 
 ---
 
-### 🚀 What I Do
-- **Machine Learning**: From data wrangling to deploying predictive models, I dive deep into the ML lifecycle.
-- **Full-Stack Development**: Building robust, scalable systems with modern frameworks like **FastAPI** and **Flutter**.
-- **UI/UX Design**: Developing intuitive, responsive interfaces with an eye for detail and user-centric design.
+### 🚀 What I Build
+- **Healthcare Tech**: Developed HIPAA-compliant platforms managing 5,000+ patients with real-time monitoring, secure data pipelines, and advanced analytics dashboards
+- **AI-Powered Applications**: Created facial recognition systems and predictive analytics solutions using Azure Cognitive Services and machine learning algorithms
+- **Award-Winning Innovation**: Built accessibility solutions for visually impaired users, recognized with Microsoft Imagine Cup Jury's Choice Award 2023
+- **Business Solutions**: Led teams developing QR-based engagement platforms and gamified reward systems with GDPR compliance
 
-### ⚙️ Tech Toolbox
-- **Programming Languages**: Python, Dart, SQL
-- **Frameworks & Libraries**: FastAPI, Flutter, GetX, Firebase
-- **Data Management**: Firebase Realtime Database, SQL-based systems
-- **Core Strengths**: Backend APIs, state management, real-time data processing, and deployment
+### ⚙️ Technical Arsenal
+- **Languages**: Python, Java, Dart, SQL
+- **Cloud & Infrastructure**: Microsoft Azure, Google Cloud Platform, Firebase, Google Cloud Run
+- **Machine Learning**: KNN, Decision Trees, predictive modeling, data pipeline optimization
+- **Mobile Development**: Android development with Firebase integration, Flutter
+- **Data & Analytics**: Power BI dashboards, PostgreSQL, real-time data processing
+- **Compliance & Security**: HIPAA, GDPR implementation, role-based access controls
 
-### 🌍 Fun Fact
-When I'm not coding, you'll likely find me exploring the connections between technology and human behavior—how digital experiences shape our daily lives and vice versa. 🌐
+### 🏆 Notable Achievements
+- **Microsoft Imagine Cup Jury's Choice Award Winner (2023)** - Azure-powered accessibility solution
+- **Team Leadership**: Successfully led development teams of 2-5 developers across multiple projects
+- **Performance Impact**: Reduced patient response times by 40% through automated alert systems
+- **Process Optimization**: Streamlined deployment pipelines, cutting timelines by 30%
+
+### 🌍 Beyond Code
+I'm fascinated by the intersection of technology and human impact—how thoughtful engineering can transform industries like healthcare and accessibility. When not building systems, I mentor junior developers and organize tech community events.
 
 ---
 
 ### 📈 My GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sheharyaramin&show_icons=true&theme=radical)
 
-### 🔗 Connect With Me
-Let’s connect! Reach out on [LinkedIn](https://www.linkedin.com/in/sheharyaramin) or shoot me an email at [sheharyaramin124@gmail.com](mailto:sheharyaramin124@gmail.com) to chat about projects, tech, or interesting insights in data science and software engineering.
+### 🔗 Let's Connect
+Interested in discussing machine learning, healthcare tech, or innovative project ideas? Reach out on [LinkedIn](https://www.linkedin.com/in/sheharyaramin) or drop me an email at [sheharyaramin124@gmail.com](mailto:sheharyaramin124@gmail.com).
