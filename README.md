@@ -7,9 +7,9 @@
 - 📈 Record Pakistani registrations for Imagine Cup through national awareness campaignster">
     
 <div align="center">
-    Lead Engineer | Full-Stack Developer | Microsoft Gold Ambassador
+    Engineer | Data & AI Enthusiast | Microsoft Gold Ambassador
   
-  *Building systems that don't just work—they actually solve problems*  
+  *Building systems that don't just work—they actually solve problems with actionable insight & AI*  
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-sheharyaramin.me-blue?style=for-the-badge&logo=globe)](https://sheharyaramin.me)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-sheharyaramin-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sheharyaramin)
