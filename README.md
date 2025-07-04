@@ -12,7 +12,7 @@
   *Building systems that don't just work—they actually solve problems with actionable insight & AI*  
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-sheharyaramin-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sheharyaramin)
-  [![Email](https://img.shields.io/badge/Email-hello@sheharyaramin.me-D14836?style=for-the-badge&logo=gmail)](mailto:hello@sheharyaramin.me)
+  [![Email](https://img.shields.io/badge/Email-sheharyaramin124@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:sheharyaramin124@gmail.com)
   
 </div>
   
