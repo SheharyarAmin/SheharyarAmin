@@ -11,7 +11,6 @@
   
   *Building systems that don't just work—they actually solve problems with actionable insight & AI*  
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-sheharyaramin.me-blue?style=for-the-badge&logo=globe)](https://sheharyaramin.me)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-sheharyaramin-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sheharyaramin)
   [![Email](https://img.shields.io/badge/Email-hello@sheharyaramin.me-D14836?style=for-the-badge&logo=gmail)](mailto:hello@sheharyaramin.me)
   
